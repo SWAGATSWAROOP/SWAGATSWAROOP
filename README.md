@@ -18,8 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SWAGATSWAROOP&show_icons=true&locale=en&layout=compact" alt="SWAGATSWAROOP" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SWAGATSWAROOP&show_icons=true&locale=en" alt="SWAGATSWAROOP" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SWAGATSWAROOP&" alt="SWAGATSWAROOP" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
