@@ -44,8 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swagatswaroop&show_icons=true&locale=en" alt="swagatswaroop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagatswaroop&" alt="swagatswaroop" /></p>
-<div align=left>
-
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
+<div align=center>
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif) 
 </div>
