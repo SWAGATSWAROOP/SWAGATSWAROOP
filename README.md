@@ -11,7 +11,7 @@
 - ⚡ Fun fact **Sometimes I become very funny with my friends**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatswaroop&label=Profile%20views&color=0e75b6&style=flat" alt="swagatswaroop" /> <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatswaroop&label=Profile%20views&color=0e75b6&style=flat" alt="swagatswaroop" /></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -43,3 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swagatswaroop&show_icons=true&locale=en" alt="swagatswaroop" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagatswaroop&" alt="swagatswaroop" /></p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
