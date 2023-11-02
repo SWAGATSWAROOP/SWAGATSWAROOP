@@ -45,5 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagatswaroop&" alt="swagatswaroop" /></p>
 <div align=center>
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif) 
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
 </div>
