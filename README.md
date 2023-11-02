@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatswaroop&label=Profile%20views&color=0e75b6&style=flat" alt="swagatswaroop" /></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -48,5 +49,3 @@
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
   
 </div>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
