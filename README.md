@@ -12,10 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatswaroop&label=Profile%20views&color=0e75b6&style=flat" alt="swagatswaroop" /> </p>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
   <!-- Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
