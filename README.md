@@ -22,13 +22,13 @@
 <!--WebDev -->
 <h3 align="left">Web Development:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,figma,css,sass,bootstrap,tailwind,materialui,nodejs,express,nginx,react" />
+  <img src="https://skillicons.dev/icons?i=html,figma,css,sass,bootstrap,tailwind,materialui,nodejs,express,nginx,react,redux" />
 </a>
 
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vim,aws,gcp,mongodb,mysql,redis,regex,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vim,aws,gcp,mongodb,mysql,redis,regex,vercel,vscode" />
 </a>
 
 
