@@ -28,7 +28,7 @@
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vim,aws,gcp,mongodb,mysql,redis,regex,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,ipfs,linux,vim,aws,gcp,mongodb,mysql,redis,regex,vercel,vscode" />
 </a>
 
 
