@@ -14,7 +14,7 @@
 <!--Languages -->
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,py,solidity" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,solidity" />
 </a>
 
 <!--WebDev -->
@@ -26,7 +26,7 @@
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ipfs,linux,mongodb,mysql,regex,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ipfs,linux,mongodb,mysql,regex,vercel" />
 </a>
 
 
