@@ -20,13 +20,13 @@
 <!--WebDev -->
 <h3 align="left">Web Development:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,nodejs,express,postman,react,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux" />
 </a>
 
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ipfs,linux,mongodb,mysql,regex,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,ipfs,linux,mongodb,mysql,regex" />
 </a>
 
 
