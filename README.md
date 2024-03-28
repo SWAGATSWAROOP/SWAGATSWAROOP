@@ -34,7 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swagatswaroop&show_icons=true&locale=en&layout=compact" alt="swagatswaroop" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swagatswaroop&show_icons=true&locale=en" alt="swagatswaroop" /></p>
-
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
 </div>
