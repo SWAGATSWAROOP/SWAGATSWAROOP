@@ -2,7 +2,7 @@
 <h3 align="center">Passionate to do Problem Solving and A Full Stack Web3 BlockChain Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently furnishing my **Blockchain** learning.
 
 - 📫 How to reach me **swagatswaroop@gmail.com**
 
