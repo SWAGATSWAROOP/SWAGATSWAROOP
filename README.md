@@ -20,7 +20,7 @@
 <!--WebDev -->
 <h3 align="left">Web Development:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,ngnix" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,nginx" />
 </a>
 
   <!-- Tools -->
