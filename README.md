@@ -57,7 +57,7 @@
 
 
 <p align="center">
-<a href="https://github.com/SWAGATSWAROOP?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=SWAGATSWAROOP&theme=onestar&no-frame=true&row=10"  width="38%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/SWAGATSWAROOP?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=SWAGATSWAROOP&theme=onestar&no-frame=true&row=15"  width="100%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 
