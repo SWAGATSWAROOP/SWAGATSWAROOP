@@ -23,16 +23,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,nginx" />
 </a>
 
-  <!-- Tools -->
-<h3 align="left">Tools:</h3>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,regex" />
-</a>
-
 <h3 align="left">Databases:</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=redis,ipfs,mongodb,mysql" />
 </a>
+  <!-- Tools -->
+<h3 align="left">Tools:</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,regex,docker" />
+</a>
+
 
 
 
