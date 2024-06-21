@@ -36,7 +36,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatswaroop&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatswaroop&layout=compact&hide_border=true&&langs_count=13&show_icons=true&theme=transparent" />
 </p>
 </div>
 
