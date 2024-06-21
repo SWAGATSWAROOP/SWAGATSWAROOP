@@ -36,7 +36,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swagatswaroop&show_icons=true&locale=en&layout=compact" alt="swagatswaroop" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatswaroop&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 </div>
 
 <div>
