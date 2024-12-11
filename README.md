@@ -33,7 +33,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,regex,docker,kubernetes,aws,gcp,npm,vercel" />
 </a>
 
-
+<p align="center">
+<a href="https://github.com/SWAGATSWAROOP?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=SWAGATSWAROOP&theme=onestar&no-frame=true&row=15"  width="100%" alt="@Goblin's trophy stats"/></a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatswaroop&layout=compact&hide_border=true&&langs_count=14&show_icons=true&theme=transparent" />
@@ -42,7 +44,6 @@
 
 <div>
 <p align="center">
-<a href="https://github.com/SWAGATSWAROOP?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=SWAGATSWAROOP&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 <a href="https://github.com/SWAGATSWAROOP?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=SWAGATSWAROOP&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Cannot fetch stats"/></a>
 </p>
 </div>
