@@ -57,10 +57,6 @@
 <!-- activity graph heroku-app end -->
 
 
-<p align="center">
-<a href="https://github.com/SWAGATSWAROOP?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=SWAGATSWAROOP&theme=onestar&no-frame=true&row=15"  width="100%" alt="@Goblin's trophy stats"/></a>
-</p>
-
 
 <p align="center">
 <a href="https://gist.github.com/SWAGATSWAROOP"><img src="https://profile-counter.glitch.me/{SWAGATSWAROOP}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
