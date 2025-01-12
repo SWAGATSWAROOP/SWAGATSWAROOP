@@ -25,7 +25,7 @@
 
 <h3 align="left">Databases:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=redis,ipfs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=redis,ipfs,mongodb,mysql,postgres" />
 </a>
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
