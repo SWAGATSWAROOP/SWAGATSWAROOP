@@ -30,7 +30,7 @@
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,regex,docker,kubernetes,aws,gcp,npm,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,regex,docker,kubernetes,aws,gcp,npm,vercel,prisma,kafka,appwrite,rabbitmq" />
 </a>
 
 <p align="center">
