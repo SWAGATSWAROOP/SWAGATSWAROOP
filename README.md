@@ -49,6 +49,7 @@
     </a>
 </p>
 <!-- activity graph heroku-app end -->
+![](https://github-readme-stats.vercel.app/api?username=swagatswaroop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
