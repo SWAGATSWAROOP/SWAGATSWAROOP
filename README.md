@@ -20,7 +20,7 @@
 <!--WebDev -->
 <h3 align="left">Web Development:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,flask,postman,react,redux,nextjs,vite,nginx,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,flask,postman,react,redux,nextjs,vite,nginx,spring,nestjs" />
 </a>
 
 <h3 align="left">Databases:</h3>
